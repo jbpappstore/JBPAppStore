@@ -1,7 +1,7 @@
-## Hi there 👋
+## 聚宝盆App Store 👋
 
 <!--
-**jbpappstore/JBPAppStore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+聚宝盆AppStore是iOS 下免费的软件商城，使用聚宝盆客户端可以下载App Store 里面收费的 app。无需签名，永久有效。
 
 Here are some ideas to get you started:
 
